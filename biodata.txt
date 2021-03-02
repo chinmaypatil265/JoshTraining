@@ -1,3 +1,4 @@
 Name:Chinmay Patil
 Hobbies:Reading,Listening music
 Goals:Learn new programming languages
+Educational details:Computer Engineering
