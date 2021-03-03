@@ -1,0 +1,14 @@
+git init - To initalize git repository
+git add filename - To add file filename from working directory to staging area
+git add . - To add all files from working directory to staging area
+git commit -m "Message" - To commit the files that are present in staging area
+git log - To show the commits details
+git status - To show the status of files
+git branch branchname - To create a branch branchname
+git checkout branchname - To switch to branchname
+git checkout -b branchname - Create a new branch branchname and switch to that branch
+git reset --soft HEAD~ - Reset the commit but keep the changes
+git reset --hard HEAD~ - Reset the commit and also discard the changes
+git branch - Shows branches
+
+
