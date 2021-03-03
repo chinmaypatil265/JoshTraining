@@ -10,3 +10,5 @@ git checkout -b branchname - Create a new branch branchname and switch to that b
 git reset --soft HEAD~ - Reset the commit but keep the changes
 git reset --hard HEAD~ - Reset the commit and also discard the changes
 git branch - Shows branches
+
+
